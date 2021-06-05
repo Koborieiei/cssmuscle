@@ -1,11 +1,11 @@
 import logo from './logo.svg'
-import ProductCard from './components/ProductCard'
+import Testimonial from './components/Grid-testimonials'
 import './App.css'
 
 function App() {
  return (
   <>
-   <ProductCard />
+   <Testimonial />
   </>
  )
 }
