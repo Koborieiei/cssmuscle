@@ -19,6 +19,7 @@ const ClickingButton = styled.button`
  width: 150px;
  height: 45px;
  margin-top: 20px;
+ cursor: pointer;
 `
 const Container = styled.div`
  margin-top: 40px;
